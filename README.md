@@ -1,6 +1,6 @@
 # Hespress-Classification
 
-Task 2 for WideBot Intern
+Task 3 for WideBot Intern
 
 LogisticRegression Model:
 
